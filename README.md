@@ -104,6 +104,7 @@ Contributions are welcome! Feel free to submit a Pull Request.
 - [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) - Generate YouTube Shorts
 - [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) - Text to video generation
 - [AI-Influencer-Generator](https://github.com/SamurAIGPT/AI-Influencer-Generator) - Create AI influencers
+- [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) — compare AI video models by API, price & speed
 
 ## License
 

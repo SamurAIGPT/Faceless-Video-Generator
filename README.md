@@ -105,6 +105,7 @@ Contributions are welcome! Feel free to submit a Pull Request.
 - [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) - Text to video generation
 - [AI-Influencer-Generator](https://github.com/SamurAIGPT/AI-Influencer-Generator) - Create AI influencers
 - [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) — compare AI video models by API, price & speed
+- [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) — free curriculum teaching creators how to monetize faceless AI video channels
 
 ## License
 
